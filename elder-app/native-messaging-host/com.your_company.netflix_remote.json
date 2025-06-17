@@ -1,0 +1,10 @@
+{
+  "name": "com.your_company.netflix_remote",
+  "description": "Native Messaging host for Netflix Remote Elder Control extension.",
+  "path": "C:\\Users\\mmdu\\RemoteNetflixController\\elder-app\\native-messaging-host\\host_app_bridge.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://gelidjdbnlcmglhhjebjmleapkfcflej/",
+    "chrome-extension://gelidjdbnlcmglhhjebjmleapkfcflej/"
+  ]
+}
