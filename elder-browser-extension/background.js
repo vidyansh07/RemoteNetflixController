@@ -30,7 +30,7 @@ function connectToNativeApp() {
         nativeAppPort.onDisconnect.addListener(function() {
             if (chrome.runtime.lastError) {
                 // This is the key error message to capture!
-                console.log("Netflix Remote Elder Control: Native messaging port disconnected/failed to connect due to error:", chrome.runtime.lastError.message);
+                console.error("Netflix Remote Elder Control: Native messaging port disconnected/failed to connect due to error:", chrome.runtime.lastError.message);
             } else {
                 console.log("Netflix Remote Elder Control: Native messaging port disconnected (cleanly).");
             }
@@ -41,7 +41,14 @@ function connectToNativeApp() {
 
         nativeAppPort.onMessage.addListener(function(message) {
             console.log("Netflix Remote Elder Control: Received message from native app (active connect):", message);
-            // Forward the message to the content script in the active Netflix tab
+
+            // Handle the initial "ready" message from native_bridge.js
+            if (message.type === "native_host_ready") {
+                console.log("Native host reported ready and connected to Electron app.");
+                return; // Don't forward this specific message to content script
+            }
+
+            // Forward the actual command message to the content script in the active Netflix tab
             chrome.tabs.query({active: true, currentWindow: true, url: "*://*.netflix.com/watch/*"}, function(tabs) {
                 if (tabs.length > 0) {
                     const activeTabId = tabs[0].id;

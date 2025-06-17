@@ -19,6 +19,9 @@ let electronAppConnected = false;
 client.connect({ path: `\\\\.\\pipe\\${IPC_CHANNEL_NAME}` }, () => {
     console.error("[Native Bridge] Connected to Elder Electron App IPC channel.");
     electronAppConnected = true;
+    // --- NEW: Send an immediate "ready" message to the extension ---
+    sendMessageToExtension({ type: "native_host_ready", status: "connected_to_electron" });
+    // --- END NEW ---
 });
 
 client.on('error', (err) => {
