@@ -1,0 +1,423 @@
+[2025-06-18T06:00:32.837Z] Extension disconnected after 52756ms
+[2025-06-18T06:00:37.842Z] No reconnection after grace period - shutting down
+[2025-06-18T06:00:37.843Z] Starting graceful shutdown
+[2025-06-18T06:00:38.857Z] Shutdown complete
+[2025-06-18T06:00:43.171Z] === Native Bridge Starting ===
+[2025-06-18T06:00:43.174Z] === Starting initialization ===
+[2025-06-18T06:00:43.174Z] Initializing native bridge
+[2025-06-18T06:00:43.176Z] === Native Bridge Ready ===
+[2025-06-18T06:00:43.687Z] Connected to Electron app
+[2025-06-18T06:00:44.185Z] Cannot send to extension - not connected or shutting down
+[2025-06-18T06:00:48.701Z] Electron connection timeout
+[2025-06-18T06:00:48.701Z] Electron connection closed
+[2025-06-18T06:00:53.030Z] Extension disconnected after 9857ms
+[2025-06-18T06:00:58.044Z] No reconnection after grace period - shutting down
+[2025-06-18T06:00:58.045Z] Starting graceful shutdown
+[2025-06-18T06:00:59.059Z] Shutdown complete
+[2025-06-18T06:01:00.392Z] === Native Bridge Starting ===
+[2025-06-18T06:01:00.394Z] === Starting initialization ===
+[2025-06-18T06:01:00.394Z] Initializing native bridge
+[2025-06-18T06:01:00.395Z] === Native Bridge Ready ===
+[2025-06-18T06:01:00.905Z] Connected to Electron app
+[2025-06-18T06:01:01.406Z] Cannot send to extension - not connected or shutting down
+[2025-06-18T06:01:05.913Z] Electron connection timeout
+[2025-06-18T06:01:05.914Z] Electron connection closed
+[2025-06-18T06:01:30.394Z] Status: Extension=false, Electron=false, Uptime=30s, HasData=false
+[2025-06-18T06:01:53.153Z] Extension disconnected after 52760ms
+[2025-06-18T06:01:58.165Z] No reconnection after grace period - shutting down
+[2025-06-18T06:01:58.165Z] Starting graceful shutdown
+[2025-06-18T06:01:59.181Z] Shutdown complete
+[2025-06-18T06:02:03.549Z] === Native Bridge Starting ===
+[2025-06-18T06:02:03.551Z] === Starting initialization ===
+[2025-06-18T06:02:03.552Z] Initializing native bridge
+[2025-06-18T06:02:03.553Z] === Native Bridge Ready ===
+[2025-06-18T06:02:04.062Z] Connected to Electron app
+[2025-06-18T06:02:04.557Z] Cannot send to extension - not connected or shutting down
+[2025-06-18T06:02:09.065Z] Electron connection timeout
+[2025-06-18T06:02:09.066Z] Electron connection closed
+[2025-06-18T06:02:33.566Z] Status: Extension=false, Electron=false, Uptime=30s, HasData=false
+[2025-06-18T06:02:53.144Z] Extension disconnected after 49593ms
+[2025-06-18T06:02:58.151Z] No reconnection after grace period - shutting down
+[2025-06-18T06:02:58.151Z] Starting graceful shutdown
+[2025-06-18T06:02:59.165Z] Shutdown complete
+[2025-06-18T06:03:03.481Z] === Native Bridge Starting ===
+[2025-06-18T06:03:03.482Z] === Starting initialization ===
+[2025-06-18T06:03:03.483Z] Initializing native bridge
+[2025-06-18T06:03:03.484Z] === Native Bridge Ready ===
+[2025-06-18T06:03:03.993Z] Connected to Electron app
+[2025-06-18T06:03:04.489Z] Cannot send to extension - not connected or shutting down
+[2025-06-18T06:03:09.005Z] Electron connection timeout
+[2025-06-18T06:03:09.006Z] Electron connection closed
+[2025-06-18T06:03:33.488Z] Status: Extension=false, Electron=false, Uptime=30s, HasData=false
+[2025-06-18T06:04:03.498Z] Status: Extension=false, Electron=false, Uptime=60s, HasData=false
+[2025-06-18T06:04:33.507Z] Status: Extension=false, Electron=false, Uptime=90s, HasData=false
+[2025-06-18T06:05:03.508Z] Status: Extension=false, Electron=false, Uptime=120s, HasData=false
+[2025-06-18T06:05:32.311Z] === Native Bridge Starting ===
+[2025-06-18T06:05:32.315Z] === Starting initialization ===
+[2025-06-18T06:05:32.315Z] Initializing native bridge
+[2025-06-18T06:05:32.317Z] === Native Bridge Ready ===
+[2025-06-18T06:05:32.842Z] Connected to Electron app
+[2025-06-18T06:05:33.327Z] Cannot send to extension - not connected or shutting down
+[2025-06-18T06:05:33.514Z] Status: Extension=false, Electron=false, Uptime=150s, HasData=false
+[2025-06-18T06:05:37.850Z] Electron connection timeout
+[2025-06-18T06:05:37.855Z] Electron connection closed
+[2025-06-18T06:06:02.324Z] Status: Extension=false, Electron=false, Uptime=30s, HasData=false
+[2025-06-18T06:06:03.522Z] Status: Extension=false, Electron=false, Uptime=180s, HasData=false
+[2025-06-18T06:06:32.337Z] Status: Extension=false, Electron=false, Uptime=60s, HasData=false
+[2025-06-18T06:06:33.532Z] Status: Extension=false, Electron=false, Uptime=210s, HasData=false
+[2025-06-18T06:07:02.343Z] Status: Extension=false, Electron=false, Uptime=90s, HasData=false
+[2025-06-18T06:07:03.544Z] Status: Extension=false, Electron=false, Uptime=240s, HasData=false
+[2025-06-18T06:07:32.358Z] Status: Extension=false, Electron=false, Uptime=120s, HasData=false
+[2025-06-18T06:07:33.552Z] Status: Extension=false, Electron=false, Uptime=270s, HasData=false
+[2025-06-18T06:08:02.365Z] Status: Extension=false, Electron=false, Uptime=150s, HasData=false
+[2025-06-18T06:08:03.553Z] Status: Extension=false, Electron=false, Uptime=300s, HasData=false
+[2025-06-18T06:08:32.375Z] Status: Extension=false, Electron=false, Uptime=180s, HasData=false
+[2025-06-18T06:08:33.559Z] Status: Extension=false, Electron=false, Uptime=330s, HasData=false
+[2025-06-18T06:09:02.387Z] Status: Extension=false, Electron=false, Uptime=210s, HasData=false
+[2025-06-18T06:09:03.220Z] Extension disconnected after 359738ms
+[2025-06-18T06:09:03.561Z] Status: Extension=false, Electron=false, Uptime=360s, HasData=false
+[2025-06-18T06:09:08.235Z] No reconnection after grace period - shutting down
+[2025-06-18T06:09:08.235Z] Starting graceful shutdown
+[2025-06-18T06:09:09.242Z] Shutdown complete
+[2025-06-18T06:09:11.361Z] === Native Bridge Starting ===
+[2025-06-18T06:09:11.364Z] === Starting initialization ===
+[2025-06-18T06:09:11.364Z] Initializing native bridge
+[2025-06-18T06:09:11.365Z] === Native Bridge Ready ===
+[2025-06-18T06:09:11.880Z] Connected to Electron app
+[2025-06-18T06:09:12.377Z] Cannot send to extension - not connected or shutting down
+[2025-06-18T06:09:16.895Z] Electron connection timeout
+[2025-06-18T06:09:16.897Z] Electron connection closed
+[2025-06-18T06:09:32.390Z] Status: Extension=false, Electron=false, Uptime=240s, HasData=false
+[2025-06-18T06:09:41.373Z] Status: Extension=false, Electron=false, Uptime=30s, HasData=false
+[2025-06-18T06:10:02.396Z] Status: Extension=false, Electron=false, Uptime=270s, HasData=false
+[2025-06-18T06:10:04.109Z] Extension disconnected after 52746ms
+[2025-06-18T06:10:09.121Z] No reconnection after grace period - shutting down
+[2025-06-18T06:10:09.122Z] Starting graceful shutdown
+[2025-06-18T06:10:10.129Z] Shutdown complete
+[2025-06-18T06:10:14.521Z] === Native Bridge Starting ===
+[2025-06-18T06:10:14.524Z] === Starting initialization ===
+[2025-06-18T06:10:14.524Z] Initializing native bridge
+[2025-06-18T06:10:14.526Z] === Native Bridge Ready ===
+[2025-06-18T06:10:15.040Z] Connected to Electron app
+[2025-06-18T06:10:15.526Z] Cannot send to extension - not connected or shutting down
+[2025-06-18T06:10:20.046Z] Electron connection timeout
+[2025-06-18T06:10:20.047Z] Electron connection closed
+[2025-06-18T06:10:32.402Z] Status: Extension=false, Electron=false, Uptime=300s, HasData=false
+[2025-06-18T06:10:44.539Z] Status: Extension=false, Electron=false, Uptime=30s, HasData=false
+[2025-06-18T06:11:02.408Z] Status: Extension=false, Electron=false, Uptime=330s, HasData=false
+[2025-06-18T06:11:04.117Z] Extension disconnected after 49594ms
+[2025-06-18T06:11:09.122Z] No reconnection after grace period - shutting down
+[2025-06-18T06:11:09.123Z] Starting graceful shutdown
+[2025-06-18T06:11:10.126Z] Shutdown complete
+[2025-06-18T06:11:14.440Z] === Native Bridge Starting ===
+[2025-06-18T06:11:14.442Z] === Starting initialization ===
+[2025-06-18T06:11:14.442Z] Initializing native bridge
+[2025-06-18T06:11:14.443Z] === Native Bridge Ready ===
+[2025-06-18T06:11:14.952Z] Connected to Electron app
+[2025-06-18T06:11:15.451Z] Cannot send to extension - not connected or shutting down
+[2025-06-18T06:11:19.963Z] Electron connection timeout
+[2025-06-18T06:11:19.963Z] Electron connection closed
+[2025-06-18T06:11:32.408Z] Status: Extension=false, Electron=false, Uptime=360s, HasData=false
+[2025-06-18T06:11:44.458Z] Status: Extension=false, Electron=false, Uptime=30s, HasData=false
+[2025-06-18T06:12:02.422Z] Status: Extension=false, Electron=false, Uptime=390s, HasData=false
+[2025-06-18T06:12:14.461Z] Status: Extension=false, Electron=false, Uptime=60s, HasData=false
+[2025-06-18T06:12:27.233Z] Extension disconnected after 72791ms
+[2025-06-18T06:12:32.248Z] No reconnection after grace period - shutting down
+[2025-06-18T06:12:32.248Z] Starting graceful shutdown
+[2025-06-18T06:12:32.434Z] Status: Extension=false, Electron=false, Uptime=420s, HasData=false
+[2025-06-18T06:12:33.262Z] Shutdown complete
+[2025-06-18T06:12:57.482Z] === Native Bridge Starting ===
+[2025-06-18T06:12:57.484Z] === Starting initialization ===
+[2025-06-18T06:12:57.484Z] Initializing native bridge
+[2025-06-18T06:12:57.485Z] === Native Bridge Ready ===
+[2025-06-18T06:12:57.991Z] Connected to Electron app
+[2025-06-18T06:12:58.365Z] Extension connected - received first data
+[2025-06-18T06:12:58.366Z] From Extension: {"type":"test_connection","timestamp":1750227178365,"message":"Hello from Chrome extension"}
+[2025-06-18T06:12:58.366Z] Forwarded to Electron
+[2025-06-18T06:12:58.490Z] Sent to extension: {"type":"native_host_ready","timestamp":1750227178489,"electronConnected":true,"version":"3.0"}
+[2025-06-18T06:13:02.449Z] Status: Extension=false, Electron=false, Uptime=450s, HasData=false
+[2025-06-18T06:13:03.371Z] Electron connection timeout
+[2025-06-18T06:13:03.372Z] Electron connection closed
+[2025-06-18T06:13:27.488Z] Status: Extension=true, Electron=false, Uptime=30s, HasData=true
+[2025-06-18T06:13:32.451Z] Status: Extension=false, Electron=false, Uptime=480s, HasData=false
+[2025-06-18T06:13:57.488Z] Status: Extension=true, Electron=false, Uptime=60s, HasData=true
+[2025-06-18T06:14:02.465Z] Status: Extension=false, Electron=false, Uptime=510s, HasData=false
+[2025-06-18T06:14:27.497Z] Status: Extension=true, Electron=false, Uptime=90s, HasData=true
+[2025-06-18T06:14:32.466Z] Status: Extension=false, Electron=false, Uptime=540s, HasData=false
+[2025-06-18T06:14:57.499Z] Status: Extension=true, Electron=false, Uptime=120s, HasData=true
+[2025-06-18T06:15:02.472Z] Status: Extension=false, Electron=false, Uptime=570s, HasData=false
+[2025-06-18T06:15:27.503Z] Status: Extension=true, Electron=false, Uptime=150s, HasData=true
+[2025-06-18T06:15:32.472Z] Status: Extension=false, Electron=false, Uptime=600s, HasData=false
+[2025-06-18T06:15:57.517Z] Status: Extension=true, Electron=false, Uptime=180s, HasData=true
+[2025-06-18T06:16:02.086Z] Extension connected - received first data
+[2025-06-18T06:16:02.482Z] Status: Extension=true, Electron=false, Uptime=630s, HasData=true
+[2025-06-18T06:16:02.847Z] Invalid message length: 50529027 - resetting buffer
+[2025-06-18T06:16:07.019Z] Starting graceful shutdown
+[2025-06-18T06:16:27.517Z] Status: Extension=true, Electron=false, Uptime=210s, HasData=true
+[2025-06-18T06:16:57.528Z] Status: Extension=true, Electron=false, Uptime=240s, HasData=true
+[2025-06-18T06:17:27.533Z] Status: Extension=true, Electron=false, Uptime=270s, HasData=true
+[2025-06-18T06:17:57.533Z] Status: Extension=true, Electron=false, Uptime=300s, HasData=true
+[2025-06-18T06:18:27.543Z] Status: Extension=true, Electron=false, Uptime=330s, HasData=true
+[2025-06-18T06:18:57.556Z] Status: Extension=true, Electron=false, Uptime=360s, HasData=true
+[2025-06-18T06:19:27.562Z] Status: Extension=true, Electron=false, Uptime=390s, HasData=true
+[2025-06-18T06:19:57.567Z] Status: Extension=true, Electron=false, Uptime=420s, HasData=true
+[2025-06-18T06:20:27.577Z] Status: Extension=true, Electron=false, Uptime=450s, HasData=true
+[2025-06-18T06:20:57.577Z] Status: Extension=true, Electron=false, Uptime=480s, HasData=true
+[2025-06-18T06:21:27.581Z] Status: Extension=true, Electron=false, Uptime=510s, HasData=true
+[2025-06-18T06:21:57.591Z] Status: Extension=true, Electron=false, Uptime=540s, HasData=true
+[2025-06-18T06:22:27.594Z] Status: Extension=true, Electron=false, Uptime=570s, HasData=true
+[2025-06-18T06:22:57.603Z] Status: Extension=true, Electron=false, Uptime=600s, HasData=true
+[2025-06-18T06:23:27.610Z] Status: Extension=true, Electron=false, Uptime=630s, HasData=true
+[2025-06-18T06:23:57.622Z] Status: Extension=true, Electron=false, Uptime=660s, HasData=true
+[2025-06-18T06:24:27.629Z] Status: Extension=true, Electron=false, Uptime=690s, HasData=true
+[2025-06-18T06:24:57.636Z] Status: Extension=true, Electron=false, Uptime=720s, HasData=true
+[2025-06-18T06:25:27.649Z] Status: Extension=true, Electron=false, Uptime=750s, HasData=true
+[2025-06-18T06:25:57.664Z] Status: Extension=true, Electron=false, Uptime=780s, HasData=true
+[2025-06-18T06:26:27.676Z] Status: Extension=true, Electron=false, Uptime=810s, HasData=true
+[2025-06-18T06:26:57.681Z] Status: Extension=true, Electron=false, Uptime=840s, HasData=true
+[2025-06-18T06:27:27.687Z] Status: Extension=true, Electron=false, Uptime=870s, HasData=true
+[2025-06-18T06:27:57.697Z] Status: Extension=true, Electron=false, Uptime=900s, HasData=true
+[2025-06-18T06:28:27.702Z] Status: Extension=true, Electron=false, Uptime=930s, HasData=true
+[2025-06-18T06:28:57.712Z] Status: Extension=true, Electron=false, Uptime=960s, HasData=true
+[2025-06-18T06:29:27.711Z] Status: Extension=true, Electron=false, Uptime=990s, HasData=true
+[2025-06-18T06:29:57.712Z] Status: Extension=true, Electron=false, Uptime=1020s, HasData=true
+[2025-06-18T06:30:27.721Z] Status: Extension=true, Electron=false, Uptime=1050s, HasData=true
+[2025-06-18T06:30:57.730Z] Status: Extension=true, Electron=false, Uptime=1080s, HasData=true
+[2025-06-18T06:31:27.730Z] Status: Extension=true, Electron=false, Uptime=1110s, HasData=true
+[2025-06-18T06:31:57.743Z] Status: Extension=true, Electron=false, Uptime=1140s, HasData=true
+[2025-06-18T06:32:27.750Z] Status: Extension=true, Electron=false, Uptime=1170s, HasData=true
+[2025-06-18T06:32:57.754Z] Status: Extension=true, Electron=false, Uptime=1200s, HasData=true
+[2025-06-18T06:33:27.756Z] Status: Extension=true, Electron=false, Uptime=1230s, HasData=true
+[2025-06-18T06:33:57.771Z] Status: Extension=true, Electron=false, Uptime=1260s, HasData=true
+[2025-06-18T06:34:27.780Z] Status: Extension=true, Electron=false, Uptime=1290s, HasData=true
+[2025-06-18T06:34:57.780Z] Status: Extension=true, Electron=false, Uptime=1320s, HasData=true
+[2025-06-18T06:35:27.794Z] Status: Extension=true, Electron=false, Uptime=1350s, HasData=true
+[2025-06-18T06:35:57.799Z] Status: Extension=true, Electron=false, Uptime=1380s, HasData=true
+[2025-06-18T06:36:27.804Z] Status: Extension=true, Electron=false, Uptime=1410s, HasData=true
+[2025-06-18T06:36:57.805Z] Status: Extension=true, Electron=false, Uptime=1440s, HasData=true
+[2025-06-18T06:37:27.816Z] Status: Extension=true, Electron=false, Uptime=1470s, HasData=true
+[2025-06-18T06:37:57.822Z] Status: Extension=true, Electron=false, Uptime=1500s, HasData=true
+[2025-06-18T06:38:27.835Z] Status: Extension=true, Electron=false, Uptime=1530s, HasData=true
+[2025-06-18T06:38:57.850Z] Status: Extension=true, Electron=false, Uptime=1560s, HasData=true
+[2025-06-18T06:39:27.853Z] Status: Extension=true, Electron=false, Uptime=1590s, HasData=true
+[2025-06-18T06:39:57.863Z] Status: Extension=true, Electron=false, Uptime=1620s, HasData=true
+[2025-06-18T06:40:27.875Z] Status: Extension=true, Electron=false, Uptime=1650s, HasData=true
+[2025-06-18T06:40:57.885Z] Status: Extension=true, Electron=false, Uptime=1680s, HasData=true
+[2025-06-18T06:41:27.892Z] Status: Extension=true, Electron=false, Uptime=1710s, HasData=true
+[2025-06-18T06:41:57.897Z] Status: Extension=true, Electron=false, Uptime=1740s, HasData=true
+[2025-06-18T06:42:27.905Z] Status: Extension=true, Electron=false, Uptime=1770s, HasData=true
+[2025-06-18T06:42:57.913Z] Status: Extension=true, Electron=false, Uptime=1800s, HasData=true
+[2025-06-18T06:43:27.921Z] Status: Extension=true, Electron=false, Uptime=1830s, HasData=true
+[2025-06-18T06:43:57.922Z] Status: Extension=true, Electron=false, Uptime=1860s, HasData=true
+[2025-06-18T06:44:27.923Z] Status: Extension=true, Electron=false, Uptime=1890s, HasData=true
+[2025-06-18T06:44:57.924Z] Status: Extension=true, Electron=false, Uptime=1920s, HasData=true
+[2025-06-18T06:45:27.931Z] Status: Extension=true, Electron=false, Uptime=1950s, HasData=true
+[2025-06-18T06:45:57.935Z] Status: Extension=true, Electron=false, Uptime=1980s, HasData=true
+[2025-06-18T06:46:27.947Z] Status: Extension=true, Electron=false, Uptime=2010s, HasData=true
+[2025-06-18T06:46:57.963Z] Status: Extension=true, Electron=false, Uptime=2040s, HasData=true
+[2025-06-18T06:47:27.973Z] Status: Extension=true, Electron=false, Uptime=2070s, HasData=true
+[2025-06-18T06:47:57.988Z] Status: Extension=true, Electron=false, Uptime=2100s, HasData=true
+[2025-06-18T06:48:27.990Z] Status: Extension=true, Electron=false, Uptime=2130s, HasData=true
+[2025-06-18T06:48:58.000Z] Status: Extension=true, Electron=false, Uptime=2160s, HasData=true
+[2025-06-18T06:49:28.011Z] Status: Extension=true, Electron=false, Uptime=2190s, HasData=true
+[2025-06-18T06:49:58.015Z] Status: Extension=true, Electron=false, Uptime=2220s, HasData=true
+[2025-06-18T06:50:28.017Z] Status: Extension=true, Electron=false, Uptime=2250s, HasData=true
+[2025-06-18T06:50:58.029Z] Status: Extension=true, Electron=false, Uptime=2280s, HasData=true
+[2025-06-18T06:51:28.032Z] Status: Extension=true, Electron=false, Uptime=2310s, HasData=true
+[2025-06-18T06:51:58.032Z] Status: Extension=true, Electron=false, Uptime=2340s, HasData=true
+[2025-06-18T06:52:28.041Z] Status: Extension=true, Electron=false, Uptime=2370s, HasData=true
+[2025-06-18T06:52:58.053Z] Status: Extension=true, Electron=false, Uptime=2400s, HasData=true
+[2025-06-18T06:53:28.062Z] Status: Extension=true, Electron=false, Uptime=2430s, HasData=true
+[2025-06-18T06:53:58.062Z] Status: Extension=true, Electron=false, Uptime=2460s, HasData=true
+[2025-06-18T06:54:28.071Z] Status: Extension=true, Electron=false, Uptime=2490s, HasData=true
+[2025-06-18T06:54:58.083Z] Status: Extension=true, Electron=false, Uptime=2520s, HasData=true
+[2025-06-18T06:55:28.088Z] Status: Extension=true, Electron=false, Uptime=2550s, HasData=true
+[2025-06-18T06:55:58.093Z] Status: Extension=true, Electron=false, Uptime=2580s, HasData=true
+[2025-06-18T06:56:28.097Z] Status: Extension=true, Electron=false, Uptime=2610s, HasData=true
+[2025-06-18T06:56:58.097Z] Status: Extension=true, Electron=false, Uptime=2640s, HasData=true
+[2025-06-18T06:57:28.100Z] Status: Extension=true, Electron=false, Uptime=2670s, HasData=true
+[2025-06-18T06:57:58.115Z] Status: Extension=true, Electron=false, Uptime=2700s, HasData=true
+[2025-06-18T06:58:28.119Z] Status: Extension=true, Electron=false, Uptime=2730s, HasData=true
+[2025-06-18T06:58:58.127Z] Status: Extension=true, Electron=false, Uptime=2760s, HasData=true
+[2025-06-18T06:59:28.131Z] Status: Extension=true, Electron=false, Uptime=2790s, HasData=true
+[2025-06-18T06:59:58.143Z] Status: Extension=true, Electron=false, Uptime=2820s, HasData=true
+[2025-06-18T07:00:28.155Z] Status: Extension=true, Electron=false, Uptime=2850s, HasData=true
+[2025-06-18T07:00:58.162Z] Status: Extension=true, Electron=false, Uptime=2880s, HasData=true
+[2025-06-18T07:01:28.177Z] Status: Extension=true, Electron=false, Uptime=2910s, HasData=true
+[2025-06-18T07:01:58.179Z] Status: Extension=true, Electron=false, Uptime=2940s, HasData=true
+[2025-06-18T07:02:28.202Z] Status: Extension=true, Electron=false, Uptime=2970s, HasData=true
+[2025-06-18T07:02:58.216Z] Status: Extension=true, Electron=false, Uptime=3000s, HasData=true
+[2025-06-18T07:03:28.227Z] Status: Extension=true, Electron=false, Uptime=3030s, HasData=true
+[2025-06-18T07:03:58.237Z] Status: Extension=true, Electron=false, Uptime=3060s, HasData=true
+[2025-06-18T07:04:28.245Z] Status: Extension=true, Electron=false, Uptime=3090s, HasData=true
+[2025-06-18T07:04:58.248Z] Status: Extension=true, Electron=false, Uptime=3120s, HasData=true
+[2025-06-18T07:05:28.258Z] Status: Extension=true, Electron=false, Uptime=3150s, HasData=true
+[2025-06-18T07:05:58.269Z] Status: Extension=true, Electron=false, Uptime=3180s, HasData=true
+[2025-06-18T07:06:28.271Z] Status: Extension=true, Electron=false, Uptime=3210s, HasData=true
+[2025-06-18T07:06:58.276Z] Status: Extension=true, Electron=false, Uptime=3240s, HasData=true
+[2025-06-18T07:07:28.290Z] Status: Extension=true, Electron=false, Uptime=3270s, HasData=true
+[2025-06-18T07:07:58.303Z] Status: Extension=true, Electron=false, Uptime=3300s, HasData=true
+[2025-06-18T07:08:28.310Z] Status: Extension=true, Electron=false, Uptime=3330s, HasData=true
+[2025-06-18T07:08:58.313Z] Status: Extension=true, Electron=false, Uptime=3360s, HasData=true
+[2025-06-18T07:09:28.320Z] Status: Extension=true, Electron=false, Uptime=3390s, HasData=true
+[2025-06-18T07:09:58.329Z] Status: Extension=true, Electron=false, Uptime=3420s, HasData=true
+[2025-06-18T07:10:28.345Z] Status: Extension=true, Electron=false, Uptime=3450s, HasData=true
+[2025-06-18T07:10:58.347Z] Status: Extension=true, Electron=false, Uptime=3480s, HasData=true
+[2025-06-18T07:11:28.355Z] Status: Extension=true, Electron=false, Uptime=3510s, HasData=true
+[2025-06-18T07:11:58.355Z] Status: Extension=true, Electron=false, Uptime=3540s, HasData=true
+[2025-06-18T07:12:28.363Z] Status: Extension=true, Electron=false, Uptime=3570s, HasData=true
+[2025-06-18T07:12:58.376Z] Status: Extension=true, Electron=false, Uptime=3600s, HasData=true
+[2025-06-18T07:13:28.377Z] Status: Extension=true, Electron=false, Uptime=3630s, HasData=true
+[2025-06-18T07:13:58.377Z] Status: Extension=true, Electron=false, Uptime=3660s, HasData=true
+[2025-06-18T07:14:28.378Z] Status: Extension=true, Electron=false, Uptime=3690s, HasData=true
+[2025-06-18T07:14:58.384Z] Status: Extension=true, Electron=false, Uptime=3720s, HasData=true
+[2025-06-18T07:15:28.384Z] Status: Extension=true, Electron=false, Uptime=3750s, HasData=true
+[2025-06-18T07:15:58.388Z] Status: Extension=true, Electron=false, Uptime=3780s, HasData=true
+[2025-06-18T07:16:28.398Z] Status: Extension=true, Electron=false, Uptime=3810s, HasData=true
+[2025-06-18T07:16:58.399Z] Status: Extension=true, Electron=false, Uptime=3840s, HasData=true
+[2025-06-18T07:17:28.400Z] Status: Extension=true, Electron=false, Uptime=3870s, HasData=true
+[2025-06-18T07:17:58.404Z] Status: Extension=true, Electron=false, Uptime=3900s, HasData=true
+[2025-06-18T07:18:28.416Z] Status: Extension=true, Electron=false, Uptime=3930s, HasData=true
+[2025-06-18T07:18:58.421Z] Status: Extension=true, Electron=false, Uptime=3960s, HasData=true
+[2025-06-18T07:19:28.432Z] Status: Extension=true, Electron=false, Uptime=3990s, HasData=true
+[2025-06-18T07:19:58.444Z] Status: Extension=true, Electron=false, Uptime=4020s, HasData=true
+[2025-06-18T07:20:28.457Z] Status: Extension=true, Electron=false, Uptime=4050s, HasData=true
+[2025-06-18T07:20:58.470Z] Status: Extension=true, Electron=false, Uptime=4081s, HasData=true
+[2025-06-18T07:21:28.485Z] Status: Extension=true, Electron=false, Uptime=4111s, HasData=true
+[2025-06-18T07:21:58.497Z] Status: Extension=true, Electron=false, Uptime=4141s, HasData=true
+[2025-06-18T07:22:28.500Z] Status: Extension=true, Electron=false, Uptime=4171s, HasData=true
+[2025-06-18T07:22:58.512Z] Status: Extension=true, Electron=false, Uptime=4201s, HasData=true
+[2025-06-18T07:23:28.527Z] Status: Extension=true, Electron=false, Uptime=4231s, HasData=true
+[2025-06-18T07:23:58.537Z] Status: Extension=true, Electron=false, Uptime=4261s, HasData=true
+[2025-06-18T07:24:28.548Z] Status: Extension=true, Electron=false, Uptime=4291s, HasData=true
+[2025-06-18T07:24:58.561Z] Status: Extension=true, Electron=false, Uptime=4321s, HasData=true
+[2025-06-18T07:25:28.562Z] Status: Extension=true, Electron=false, Uptime=4351s, HasData=true
+[2025-06-18T07:25:58.577Z] Status: Extension=true, Electron=false, Uptime=4381s, HasData=true
+[2025-06-18T07:26:28.588Z] Status: Extension=true, Electron=false, Uptime=4411s, HasData=true
+[2025-06-18T07:26:58.590Z] Status: Extension=true, Electron=false, Uptime=4441s, HasData=true
+[2025-06-18T07:27:28.592Z] Status: Extension=true, Electron=false, Uptime=4471s, HasData=true
+[2025-06-18T07:27:58.601Z] Status: Extension=true, Electron=false, Uptime=4501s, HasData=true
+[2025-06-18T07:28:28.612Z] Status: Extension=true, Electron=false, Uptime=4531s, HasData=true
+[2025-06-18T07:28:58.613Z] Status: Extension=true, Electron=false, Uptime=4561s, HasData=true
+[2025-06-18T07:29:28.616Z] Status: Extension=true, Electron=false, Uptime=4591s, HasData=true
+[2025-06-18T07:29:58.623Z] Status: Extension=true, Electron=false, Uptime=4621s, HasData=true
+[2025-06-18T07:30:28.627Z] Status: Extension=true, Electron=false, Uptime=4651s, HasData=true
+[2025-06-18T07:30:58.633Z] Status: Extension=true, Electron=false, Uptime=4681s, HasData=true
+[2025-06-18T07:31:28.640Z] Status: Extension=true, Electron=false, Uptime=4711s, HasData=true
+[2025-06-18T07:31:58.640Z] Status: Extension=true, Electron=false, Uptime=4741s, HasData=true
+[2025-06-18T07:32:28.648Z] Status: Extension=true, Electron=false, Uptime=4771s, HasData=true
+[2025-06-18T07:32:58.656Z] Status: Extension=true, Electron=false, Uptime=4801s, HasData=true
+[2025-06-18T07:33:28.661Z] Status: Extension=true, Electron=false, Uptime=4831s, HasData=true
+[2025-06-18T07:33:58.672Z] Status: Extension=true, Electron=false, Uptime=4861s, HasData=true
+[2025-06-18T07:34:28.678Z] Status: Extension=true, Electron=false, Uptime=4891s, HasData=true
+[2025-06-18T07:34:58.687Z] Status: Extension=true, Electron=false, Uptime=4921s, HasData=true
+[2025-06-18T07:35:28.690Z] Status: Extension=true, Electron=false, Uptime=4951s, HasData=true
+[2025-06-18T07:35:58.699Z] Status: Extension=true, Electron=false, Uptime=4981s, HasData=true
+[2025-06-18T07:36:28.699Z] Status: Extension=true, Electron=false, Uptime=5011s, HasData=true
+[2025-06-18T07:36:58.708Z] Status: Extension=true, Electron=false, Uptime=5041s, HasData=true
+[2025-06-18T07:37:28.714Z] Status: Extension=true, Electron=false, Uptime=5071s, HasData=true
+[2025-06-18T07:37:58.729Z] Status: Extension=true, Electron=false, Uptime=5101s, HasData=true
+[2025-06-18T07:38:28.737Z] Status: Extension=true, Electron=false, Uptime=5131s, HasData=true
+[2025-06-18T07:38:58.739Z] Status: Extension=true, Electron=false, Uptime=5161s, HasData=true
+[2025-06-18T07:39:28.746Z] Status: Extension=true, Electron=false, Uptime=5191s, HasData=true
+[2025-06-18T07:39:58.749Z] Status: Extension=true, Electron=false, Uptime=5221s, HasData=true
+[2025-06-18T07:40:28.749Z] Status: Extension=true, Electron=false, Uptime=5251s, HasData=true
+[2025-06-18T07:40:58.753Z] Status: Extension=true, Electron=false, Uptime=5281s, HasData=true
+[2025-06-18T07:41:28.760Z] Status: Extension=true, Electron=false, Uptime=5311s, HasData=true
+[2025-06-18T07:41:58.773Z] Status: Extension=true, Electron=false, Uptime=5341s, HasData=true
+[2025-06-18T07:42:28.781Z] Status: Extension=true, Electron=false, Uptime=5371s, HasData=true
+[2025-06-18T07:42:58.787Z] Status: Extension=true, Electron=false, Uptime=5401s, HasData=true
+[2025-06-18T07:43:28.801Z] Status: Extension=true, Electron=false, Uptime=5431s, HasData=true
+[2025-06-18T07:43:58.813Z] Status: Extension=true, Electron=false, Uptime=5461s, HasData=true
+[2025-06-18T07:44:28.823Z] Status: Extension=true, Electron=false, Uptime=5491s, HasData=true
+[2025-06-18T07:44:58.837Z] Status: Extension=true, Electron=false, Uptime=5521s, HasData=true
+[2025-06-18T07:45:28.849Z] Status: Extension=true, Electron=false, Uptime=5551s, HasData=true
+[2025-06-18T07:45:58.850Z] Status: Extension=true, Electron=false, Uptime=5581s, HasData=true
+[2025-06-18T07:46:28.861Z] Status: Extension=true, Electron=false, Uptime=5611s, HasData=true
+[2025-06-18T07:46:58.868Z] Status: Extension=true, Electron=false, Uptime=5641s, HasData=true
+[2025-06-18T07:47:28.882Z] Status: Extension=true, Electron=false, Uptime=5671s, HasData=true
+[2025-06-18T07:47:58.892Z] Status: Extension=true, Electron=false, Uptime=5701s, HasData=true
+[2025-06-18T07:48:28.898Z] Status: Extension=true, Electron=false, Uptime=5731s, HasData=true
+[2025-06-18T07:48:58.903Z] Status: Extension=true, Electron=false, Uptime=5761s, HasData=true
+[2025-06-18T07:49:28.905Z] Status: Extension=true, Electron=false, Uptime=5791s, HasData=true
+[2025-06-18T07:49:58.920Z] Status: Extension=true, Electron=false, Uptime=5821s, HasData=true
+[2025-06-18T07:50:28.927Z] Status: Extension=true, Electron=false, Uptime=5851s, HasData=true
+[2025-06-18T07:50:58.936Z] Status: Extension=true, Electron=false, Uptime=5881s, HasData=true
+[2025-06-18T07:51:28.943Z] Status: Extension=true, Electron=false, Uptime=5911s, HasData=true
+[2025-06-18T07:51:58.951Z] Status: Extension=true, Electron=false, Uptime=5941s, HasData=true
+[2025-06-18T07:52:28.965Z] Status: Extension=true, Electron=false, Uptime=5971s, HasData=true
+[2025-06-18T07:52:58.978Z] Status: Extension=true, Electron=false, Uptime=6001s, HasData=true
+[2025-06-18T07:53:28.993Z] Status: Extension=true, Electron=false, Uptime=6031s, HasData=true
+[2025-06-18T07:53:58.998Z] Status: Extension=true, Electron=false, Uptime=6061s, HasData=true
+[2025-06-18T07:54:28.998Z] Status: Extension=true, Electron=false, Uptime=6091s, HasData=true
+[2025-06-18T07:54:59.010Z] Status: Extension=true, Electron=false, Uptime=6121s, HasData=true
+[2025-06-18T07:55:29.024Z] Status: Extension=true, Electron=false, Uptime=6151s, HasData=true
+[2025-06-18T07:55:59.035Z] Status: Extension=true, Electron=false, Uptime=6181s, HasData=true
+[2025-06-18T07:56:29.039Z] Status: Extension=true, Electron=false, Uptime=6211s, HasData=true
+[2025-06-18T07:56:59.051Z] Status: Extension=true, Electron=false, Uptime=6241s, HasData=true
+[2025-06-18T07:57:29.052Z] Status: Extension=true, Electron=false, Uptime=6271s, HasData=true
+[2025-06-18T07:57:59.057Z] Status: Extension=true, Electron=false, Uptime=6301s, HasData=true
+[2025-06-18T07:58:29.068Z] Status: Extension=true, Electron=false, Uptime=6331s, HasData=true
+[2025-06-18T07:58:59.068Z] Status: Extension=true, Electron=false, Uptime=6361s, HasData=true
+[2025-06-18T07:59:29.072Z] Status: Extension=true, Electron=false, Uptime=6391s, HasData=true
+[2025-06-18T07:59:59.077Z] Status: Extension=true, Electron=false, Uptime=6421s, HasData=true
+[2025-06-18T08:00:29.081Z] Status: Extension=true, Electron=false, Uptime=6451s, HasData=true
+[2025-06-18T08:00:59.083Z] Status: Extension=true, Electron=false, Uptime=6481s, HasData=true
+[2025-06-18T08:01:29.094Z] Status: Extension=true, Electron=false, Uptime=6511s, HasData=true
+[2025-06-18T08:01:59.105Z] Status: Extension=true, Electron=false, Uptime=6541s, HasData=true
+[2025-06-18T08:02:29.110Z] Status: Extension=true, Electron=false, Uptime=6571s, HasData=true
+[2025-06-18T08:02:59.111Z] Status: Extension=true, Electron=false, Uptime=6601s, HasData=true
+[2025-06-18T08:03:29.111Z] Status: Extension=true, Electron=false, Uptime=6631s, HasData=true
+[2025-06-18T08:03:59.125Z] Status: Extension=true, Electron=false, Uptime=6661s, HasData=true
+[2025-06-18T08:04:29.126Z] Status: Extension=true, Electron=false, Uptime=6691s, HasData=true
+[2025-06-18T08:04:59.137Z] Status: Extension=true, Electron=false, Uptime=6721s, HasData=true
+[2025-06-18T08:05:29.139Z] Status: Extension=true, Electron=false, Uptime=6751s, HasData=true
+[2025-06-18T08:05:59.148Z] Status: Extension=true, Electron=false, Uptime=6781s, HasData=true
+[2025-06-18T08:06:29.160Z] Status: Extension=true, Electron=false, Uptime=6811s, HasData=true
+[2025-06-18T08:06:59.176Z] Status: Extension=true, Electron=false, Uptime=6841s, HasData=true
+[2025-06-18T08:07:29.187Z] Status: Extension=true, Electron=false, Uptime=6871s, HasData=true
+[2025-06-18T08:07:59.201Z] Status: Extension=true, Electron=false, Uptime=6901s, HasData=true
+[2025-06-18T08:08:29.211Z] Status: Extension=true, Electron=false, Uptime=6931s, HasData=true
+[2025-06-18T08:08:59.215Z] Status: Extension=true, Electron=false, Uptime=6961s, HasData=true
+[2025-06-18T08:09:29.222Z] Status: Extension=true, Electron=false, Uptime=6991s, HasData=true
+[2025-06-18T08:09:59.233Z] Status: Extension=true, Electron=false, Uptime=7021s, HasData=true
+[2025-06-18T08:10:29.234Z] Status: Extension=true, Electron=false, Uptime=7051s, HasData=true
+[2025-06-18T08:10:59.244Z] Status: Extension=true, Electron=false, Uptime=7081s, HasData=true
+[2025-06-18T08:11:29.244Z] Status: Extension=true, Electron=false, Uptime=7111s, HasData=true
+[2025-06-18T08:11:59.254Z] Status: Extension=true, Electron=false, Uptime=7141s, HasData=true
+[2025-06-18T08:12:29.264Z] Status: Extension=true, Electron=false, Uptime=7171s, HasData=true
+[2025-06-18T08:12:59.277Z] Status: Extension=true, Electron=false, Uptime=7201s, HasData=true
+[2025-06-18T08:13:29.292Z] Status: Extension=true, Electron=false, Uptime=7231s, HasData=true
+[2025-06-18T08:13:59.303Z] Status: Extension=true, Electron=false, Uptime=7261s, HasData=true
+[2025-06-18T08:14:29.312Z] Status: Extension=true, Electron=false, Uptime=7291s, HasData=true
+[2025-06-18T08:14:59.325Z] Status: Extension=true, Electron=false, Uptime=7321s, HasData=true
+[2025-06-18T08:15:29.338Z] Status: Extension=true, Electron=false, Uptime=7351s, HasData=true
+[2025-06-18T08:15:59.346Z] Status: Extension=true, Electron=false, Uptime=7381s, HasData=true
+[2025-06-18T08:16:29.348Z] Status: Extension=true, Electron=false, Uptime=7411s, HasData=true
+[2025-06-18T08:16:59.360Z] Status: Extension=true, Electron=false, Uptime=7441s, HasData=true
+[2025-06-18T08:17:29.375Z] Status: Extension=true, Electron=false, Uptime=7471s, HasData=true
+[2025-06-18T08:17:59.387Z] Status: Extension=true, Electron=false, Uptime=7501s, HasData=true
+[2025-06-18T08:18:29.400Z] Status: Extension=true, Electron=false, Uptime=7531s, HasData=true
+[2025-06-18T08:18:59.414Z] Status: Extension=true, Electron=false, Uptime=7561s, HasData=true
+[2025-06-18T08:19:29.426Z] Status: Extension=true, Electron=false, Uptime=7591s, HasData=true
+[2025-06-18T08:19:59.427Z] Status: Extension=true, Electron=false, Uptime=7621s, HasData=true
+[2025-06-18T08:20:29.437Z] Status: Extension=true, Electron=false, Uptime=7651s, HasData=true
+[2025-06-18T08:20:59.438Z] Status: Extension=true, Electron=false, Uptime=7681s, HasData=true
+[2025-06-18T08:21:29.441Z] Status: Extension=true, Electron=false, Uptime=7711s, HasData=true
+[2025-06-18T08:21:59.443Z] Status: Extension=true, Electron=false, Uptime=7741s, HasData=true
+[2025-06-18T08:22:29.454Z] Status: Extension=true, Electron=false, Uptime=7771s, HasData=true
+[2025-06-18T08:22:59.465Z] Status: Extension=true, Electron=false, Uptime=7802s, HasData=true
+[2025-06-18T08:23:29.476Z] Status: Extension=true, Electron=false, Uptime=7832s, HasData=true
+[2025-06-18T08:23:59.487Z] Status: Extension=true, Electron=false, Uptime=7862s, HasData=true
+[2025-06-18T08:24:29.497Z] Status: Extension=true, Electron=false, Uptime=7892s, HasData=true
+[2025-06-18T08:24:59.503Z] Status: Extension=true, Electron=false, Uptime=7922s, HasData=true
+[2025-06-18T08:25:29.503Z] Status: Extension=true, Electron=false, Uptime=7952s, HasData=true
+[2025-06-18T08:25:59.515Z] Status: Extension=true, Electron=false, Uptime=7982s, HasData=true
+[2025-06-18T08:26:29.525Z] Status: Extension=true, Electron=false, Uptime=8012s, HasData=true
+[2025-06-18T08:26:59.536Z] Status: Extension=true, Electron=false, Uptime=8042s, HasData=true
+[2025-06-18T08:27:29.548Z] Status: Extension=true, Electron=false, Uptime=8072s, HasData=true
+[2025-06-18T08:27:59.556Z] Status: Extension=true, Electron=false, Uptime=8102s, HasData=true
+[2025-06-18T08:28:23.574Z] Extension disconnected after 8126091ms
+[2025-06-18T08:28:28.581Z] No reconnection after grace period - shutting down
+[2025-06-18T08:28:28.581Z] Starting graceful shutdown
+[2025-06-18T08:28:29.584Z] Shutdown complete

@@ -1,0 +1,1163 @@
+[Native Bridge] === Native Bridge Script Starting ===
+[Native Bridge] Node.js version: v20.19.2
+[Native Bridge] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[Native Bridge] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 1/10)
+[Native Bridge] === Native Bridge initialization complete ===
+[Native Bridge] Successfully connected to Elder Electron App IPC channel
+[Native Bridge] Sending to extension: 79 bytes
+[Native Bridge] Message content: {"type":"native_host_ready","timestamp":1750223916533,"electronConnected":true}
+[Native Bridge] Message sent to extension successfully
+[Native Bridge] Health check - Electron connected: true, uptime: 30.0349485s
+[Native Bridge] Health check - Electron connected: true, uptime: 60.04207s
+[Native Bridge] Health check - Electron connected: true, uptime: 90.0424245s
+[Native Bridge] Health check - Electron connected: true, uptime: 120.0482378s
+[Native Bridge] Health check - Electron connected: true, uptime: 150.0625245s
+[Native Bridge] stdin ended - browser extension disconnected
+[Native Bridge] === Native Bridge Script Starting ===
+[Native Bridge] Node.js version: v20.19.2
+[Native Bridge] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[Native Bridge] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 1/10)
+[Native Bridge] === Native Bridge initialization complete ===
+[Native Bridge] Successfully connected to Elder Electron App IPC channel
+[Native Bridge] Sending to extension: 79 bytes
+[Native Bridge] Message content: {"type":"native_host_ready","timestamp":1750224078356,"electronConnected":true}
+[Native Bridge] Message sent to extension successfully
+[Native Bridge] Health check - Electron connected: true, uptime: 30.0429606s
+[Native Bridge] Health check - Electron connected: true, uptime: 60.0575849s
+[Native Bridge] Health check - Electron connected: true, uptime: 90.0711759s
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to reconnect...
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 1/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 2/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 3/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 4/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Health check - Electron connected: false, uptime: 120.0802846s
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 5/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 6/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 7/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 8/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 9/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 10/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Max connection attempts reached. Elder Electron app may not be running.
+[Native Bridge] Native bridge will continue running but commands cannot be forwarded.
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Health check - Electron connected: false, uptime: 150.0848803s
+[Native Bridge] Health check - Electron connected: false, uptime: 180.0935173s
+[Native Bridge] Health check - Electron connected: false, uptime: 210.0962205s
+[Native Bridge] Health check - Electron connected: false, uptime: 240.1062927s
+[Native Bridge] Health check - Electron connected: false, uptime: 270.1079466s
+[Native Bridge] Health check - Electron connected: false, uptime: 300.1134457s
+[Native Bridge] Health check - Electron connected: false, uptime: 330.1256136s
+[Native Bridge] stdin ended - browser extension disconnected
+[Native Bridge] === Native Bridge Script Starting ===
+[Native Bridge] Node.js version: v20.19.2
+[Native Bridge] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[Native Bridge] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Starting startup sequence...
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 1/10)
+[Native Bridge] === Native Bridge initialization complete ===
+[Native Bridge] Successfully connected to Elder Electron App IPC channel
+[Native Bridge] stdin ended - browser extension disconnected
+[Native Bridge] Waiting for potential extension reconnection...
+[Native Bridge] Cannot send message to extension - not connected
+[Native Bridge] Health check - Extension: false, Electron: true, uptime: 30.0244873s
+[Native Bridge] No extension reconnection detected, exiting
+[Native Bridge] === Native Bridge Script Starting ===
+[Native Bridge] Node.js version: v20.19.2
+[Native Bridge] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[Native Bridge] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Starting startup sequence...
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 1/10)
+[Native Bridge] === Native Bridge initialization complete ===
+[Native Bridge] Successfully connected to Elder Electron App IPC channel
+[Native Bridge] Cannot send message to extension - not connected
+[Native Bridge] Health check - Extension: false, Electron: true, uptime: 30.035671s
+[Native Bridge] === Native Bridge Script Starting ===
+[Native Bridge] Node.js version: v20.19.2
+[Native Bridge] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[Native Bridge] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Starting startup sequence...
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 1/10)
+[Native Bridge] === Native Bridge initialization complete ===
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Cannot send message to extension - not connected
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 2/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 3/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 4/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 5/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 6/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 7/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 8/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 9/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 10/10)
+(node:17160) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 connect listeners added to [Socket]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Max connection attempts reached. Elder Electron app may not be running.
+[Native Bridge] Native bridge will continue running but commands cannot be forwarded.
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 30.1004386s
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 60.1061551s
+[Native Bridge] stdin ended - browser extension disconnected
+[Native Bridge] Waiting for potential extension reconnection...
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 90.1089816s
+[Native Bridge] No extension reconnection detected, exiting
+[Native Bridge] === Native Bridge Script Starting ===
+[Native Bridge] Node.js version: v20.19.2
+[Native Bridge] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[Native Bridge] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Starting startup sequence...
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 1/10)
+[Native Bridge] === Native Bridge initialization complete ===
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Cannot send message to extension - not connected
+[Native Bridge] stdin ended - browser extension disconnected
+[Native Bridge] Waiting for potential extension reconnection...
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 2/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 3/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 4/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 5/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 6/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 7/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 8/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 9/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 10/10)
+(node:11000) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 connect listeners added to [Socket]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Max connection attempts reached. Elder Electron app may not be running.
+[Native Bridge] Native bridge will continue running but commands cannot be forwarded.
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 30.0284513s
+[Native Bridge] No extension reconnection detected, exiting
+[Native Bridge] === Native Bridge Script Starting ===
+[Native Bridge] Node.js version: v20.19.2
+[Native Bridge] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[Native Bridge] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Starting startup sequence...
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 1/10)
+[Native Bridge] === Native Bridge initialization complete ===
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Cannot send message to extension - not connected
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 2/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 3/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 4/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 5/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 6/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 7/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 8/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 9/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 10/10)
+(node:3080) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 connect listeners added to [Socket]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Max connection attempts reached. Elder Electron app may not be running.
+[Native Bridge] Native bridge will continue running but commands cannot be forwarded.
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 30.0296866s
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 60.034615s
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 90.0575362s
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 120.0619328s
+[Native Bridge] stdin ended - browser extension disconnected
+[Native Bridge] Waiting for potential extension reconnection...
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 150.0721401s
+[Native Bridge] No extension reconnection detected, exiting
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+^
+
+ReferenceError: chrome is not defined
+    at Object.<anonymous> (D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host\native_bridge.js:75:1)
+    at Module._compile (node:internal/modules/cjs/loader:1529:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1613:10)
+    at Module.load (node:internal/modules/cjs/loader:1275:32)
+    at Module._load (node:internal/modules/cjs/loader:1096:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:164:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.19.2
+Script exited with error code 1 
+[Native Bridge] === Native Bridge Script Starting ===
+[Native Bridge] Node.js version: v20.19.2
+[Native Bridge] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[Native Bridge] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Starting startup sequence...
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 1/10)
+[Native Bridge] === Native Bridge initialization complete ===
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] Received 45 bytes from stdin (data event)
+[Native Bridge] Browser extension connected via stdin
+[Native Bridge] Expected message length: 41 bytes
+[Native Bridge] Received message from extension: {"type":"handshake","source":"extension"}
+[Native Bridge] Cannot forward to Electron app - not connected or not writable
+[Native Bridge] Received 45 bytes from stdin
+[Native Bridge] Expected message length: 41 bytes
+[Native Bridge] Received message from extension: {"type":"handshake","source":"extension"}
+[Native Bridge] Cannot forward to Electron app - not connected or not writable
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Sending to extension: 80 bytes
+[Native Bridge] Message content: {"type":"native_host_ready","timestamp":1750225011714,"electronConnected":false}
+[Native Bridge] Message sent to extension successfully
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 2/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 3/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 4/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 5/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 6/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 7/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 8/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 9/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 10/10)
+(node:13208) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 connect listeners added to [Socket]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Max connection attempts reached. Elder Electron app may not be running.
+[Native Bridge] Native bridge will continue running but commands cannot be forwarded.
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] stdin ended - browser extension disconnected
+[Native Bridge] Waiting for potential extension reconnection...
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 30.0368166s
+[Native Bridge] No extension reconnection detected, exiting
+[Native Bridge] === Native Bridge Script Starting ===
+[Native Bridge] Node.js version: v20.19.2
+[Native Bridge] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[Native Bridge] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[Native Bridge] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Starting startup sequence...
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 1/10)
+[Native Bridge] === Native Bridge initialization complete ===
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Cannot send message to extension - not connected
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 2/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 3/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 4/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 5/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 6/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 7/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 8/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 9/10)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Retrying connection in 2 seconds...
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Attempting to connect to Elder Electron App (attempt 10/10)
+(node:17220) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 connect listeners added to [Socket]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+[Native Bridge] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Max connection attempts reached. Elder Electron app may not be running.
+[Native Bridge] Native bridge will continue running but commands cannot be forwarded.
+[Native Bridge] IPC connection closed by Elder Electron App
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 30.0309683s
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 60.0357319s
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 90.0378009s
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 120.0405299s
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 150.0497903s
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 180.0551108s
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 210.0622081s
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 240.0718765s
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 270.0751412s
+[Native Bridge] Health check - Extension: false, Electron: false, uptime: 300.0878515s
+[Native Bridge] Extension disconnected for too long, exiting

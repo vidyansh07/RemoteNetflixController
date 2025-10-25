@@ -1,0 +1,425 @@
+[2025-06-18T05:18:35.515Z] === Native Bridge Script Starting ===
+[2025-06-18T05:18:35.519Z] Node.js version: v20.19.2
+[2025-06-18T05:18:35.520Z] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[2025-06-18T05:18:35.520Z] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:18:35.520Z] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:18:35.520Z] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:18:35.522Z] Attempting to connect to Elder Electron App (attempt 1/10)
+[2025-06-18T05:18:35.522Z] === Native Bridge initialization complete ===
+[2025-06-18T05:18:35.524Z] Successfully connected to Elder Electron App IPC channel
+[2025-06-18T05:18:36.533Z] Sending to extension: 79 bytes
+[2025-06-18T05:18:36.534Z] Message content: {"type":"native_host_ready","timestamp":1750223916533,"electronConnected":true}
+[2025-06-18T05:18:36.535Z] Message sent to extension successfully
+[2025-06-18T05:19:05.530Z] Health check - Electron connected: true, uptime: 30.0349485s
+[2025-06-18T05:19:35.538Z] Health check - Electron connected: true, uptime: 60.04207s
+[2025-06-18T05:19:58.465Z] === Native Bridge Script Starting ===
+[2025-06-18T05:19:58.468Z] Node.js version: v20.19.2
+[2025-06-18T05:19:58.468Z] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[2025-06-18T05:19:58.468Z] Current working directory: D:\ClientWork\RemoteNetflixController
+[2025-06-18T05:19:58.469Z] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:19:58.469Z] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:19:58.470Z] Attempting to connect to Elder Electron App (attempt 1/10)
+[2025-06-18T05:19:58.471Z] === Native Bridge initialization complete ===
+[2025-06-18T05:19:58.473Z] Successfully connected to Elder Electron App IPC channel
+[2025-06-18T05:19:59.445Z] Received 4 bytes from stdin
+[2025-06-18T05:19:59.446Z] Expected message length: 32 bytes
+[2025-06-18T05:19:59.446Z] Waiting for more data. Have 4 bytes, need 36
+[2025-06-18T05:19:59.447Z] Received 32 bytes from stdin
+[2025-06-18T05:19:59.447Z] Expected message length: 32 bytes
+[2025-06-18T05:19:59.448Z] Received message from extension: {"type":"test","command":"ping"}
+[2025-06-18T05:19:59.448Z] Message forwarded to Electron app
+[2025-06-18T05:19:59.475Z] Sending to extension: 79 bytes
+[2025-06-18T05:19:59.476Z] Message content: {"type":"native_host_ready","timestamp":1750223999475,"electronConnected":true}
+[2025-06-18T05:19:59.477Z] Message sent to extension successfully
+[2025-06-18T05:20:05.538Z] Health check - Electron connected: true, uptime: 90.0424245s
+[2025-06-18T05:20:35.544Z] Health check - Electron connected: true, uptime: 120.0482378s
+[2025-06-18T05:21:05.559Z] Health check - Electron connected: true, uptime: 150.0625245s
+[2025-06-18T05:21:17.081Z] stdin ended - browser extension disconnected
+[2025-06-18T05:21:17.347Z] === Native Bridge Script Starting ===
+[2025-06-18T05:21:17.350Z] Node.js version: v20.19.2
+[2025-06-18T05:21:17.350Z] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[2025-06-18T05:21:17.350Z] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:21:17.350Z] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:21:17.351Z] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:21:17.352Z] Attempting to connect to Elder Electron App (attempt 1/10)
+[2025-06-18T05:21:17.353Z] === Native Bridge initialization complete ===
+[2025-06-18T05:21:17.354Z] Successfully connected to Elder Electron App IPC channel
+[2025-06-18T05:21:18.356Z] Sending to extension: 79 bytes
+[2025-06-18T05:21:18.357Z] Message content: {"type":"native_host_ready","timestamp":1750224078356,"electronConnected":true}
+[2025-06-18T05:21:18.358Z] Message sent to extension successfully
+[2025-06-18T05:21:47.368Z] Health check - Electron connected: true, uptime: 30.0429606s
+[2025-06-18T05:22:17.383Z] Health check - Electron connected: true, uptime: 60.0575849s
+[2025-06-18T05:22:47.396Z] Health check - Electron connected: true, uptime: 90.0711759s
+[2025-06-18T05:23:08.873Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:23:08.875Z] Attempting to reconnect...
+[2025-06-18T05:23:09.886Z] Attempting to connect to Elder Electron App (attempt 1/10)
+[2025-06-18T05:23:09.887Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:23:09.887Z] Retrying connection in 2 seconds...
+[2025-06-18T05:23:09.888Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:23:11.899Z] Attempting to connect to Elder Electron App (attempt 2/10)
+[2025-06-18T05:23:11.899Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:23:11.900Z] Retrying connection in 2 seconds...
+[2025-06-18T05:23:11.900Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:23:13.912Z] Attempting to connect to Elder Electron App (attempt 3/10)
+[2025-06-18T05:23:13.913Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:23:13.914Z] Retrying connection in 2 seconds...
+[2025-06-18T05:23:13.915Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:23:15.922Z] Attempting to connect to Elder Electron App (attempt 4/10)
+[2025-06-18T05:23:15.923Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:23:15.924Z] Retrying connection in 2 seconds...
+[2025-06-18T05:23:15.926Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:23:17.405Z] Health check - Electron connected: false, uptime: 120.0802846s
+[2025-06-18T05:23:17.937Z] Attempting to connect to Elder Electron App (attempt 5/10)
+[2025-06-18T05:23:17.938Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:23:17.939Z] Retrying connection in 2 seconds...
+[2025-06-18T05:23:17.940Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:23:19.950Z] Attempting to connect to Elder Electron App (attempt 6/10)
+[2025-06-18T05:23:19.951Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:23:19.951Z] Retrying connection in 2 seconds...
+[2025-06-18T05:23:19.952Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:23:21.962Z] Attempting to connect to Elder Electron App (attempt 7/10)
+[2025-06-18T05:23:21.963Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:23:21.964Z] Retrying connection in 2 seconds...
+[2025-06-18T05:23:21.965Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:23:23.972Z] Attempting to connect to Elder Electron App (attempt 8/10)
+[2025-06-18T05:23:23.973Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:23:23.973Z] Retrying connection in 2 seconds...
+[2025-06-18T05:23:23.973Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:23:25.977Z] Attempting to connect to Elder Electron App (attempt 9/10)
+[2025-06-18T05:23:25.978Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:23:25.978Z] Retrying connection in 2 seconds...
+[2025-06-18T05:23:25.979Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:23:27.992Z] Attempting to connect to Elder Electron App (attempt 10/10)
+[2025-06-18T05:23:27.993Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:23:27.993Z] Max connection attempts reached. Elder Electron app may not be running.
+[2025-06-18T05:23:27.994Z] Native bridge will continue running but commands cannot be forwarded.
+[2025-06-18T05:23:27.994Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:23:47.410Z] Health check - Electron connected: false, uptime: 150.0848803s
+[2025-06-18T05:24:17.418Z] Health check - Electron connected: false, uptime: 180.0935173s
+[2025-06-18T05:24:47.421Z] Health check - Electron connected: false, uptime: 210.0962205s
+[2025-06-18T05:25:17.431Z] Health check - Electron connected: false, uptime: 240.1062927s
+[2025-06-18T05:25:47.433Z] Health check - Electron connected: false, uptime: 270.1079466s
+[2025-06-18T05:26:17.439Z] Health check - Electron connected: false, uptime: 300.1134457s
+[2025-06-18T05:26:47.451Z] Health check - Electron connected: false, uptime: 330.1256136s
+[2025-06-18T05:26:59.275Z] stdin ended - browser extension disconnected
+[2025-06-18T05:26:59.722Z] === Native Bridge Script Starting ===
+[2025-06-18T05:26:59.724Z] Node.js version: v20.19.2
+[2025-06-18T05:26:59.724Z] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[2025-06-18T05:26:59.724Z] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:26:59.725Z] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:26:59.725Z] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:26:59.726Z] Starting startup sequence...
+[2025-06-18T05:26:59.727Z] Attempting to connect to Elder Electron App (attempt 1/10)
+[2025-06-18T05:26:59.727Z] === Native Bridge initialization complete ===
+[2025-06-18T05:26:59.729Z] Successfully connected to Elder Electron App IPC channel
+[2025-06-18T05:27:00.166Z] stdin ended - browser extension disconnected
+[2025-06-18T05:27:00.167Z] Waiting for potential extension reconnection...
+[2025-06-18T05:27:00.729Z] Cannot send message to extension - not connected
+[2025-06-18T05:27:29.729Z] Health check - Extension: false, Electron: true, uptime: 30.0244873s
+[2025-06-18T05:27:30.179Z] No extension reconnection detected, exiting
+[2025-06-18T05:27:33.368Z] === Native Bridge Script Starting ===
+[2025-06-18T05:27:33.370Z] Node.js version: v20.19.2
+[2025-06-18T05:27:33.370Z] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[2025-06-18T05:27:33.371Z] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:27:33.371Z] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:27:33.371Z] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:27:33.372Z] Starting startup sequence...
+[2025-06-18T05:27:33.373Z] Attempting to connect to Elder Electron App (attempt 1/10)
+[2025-06-18T05:27:33.373Z] === Native Bridge initialization complete ===
+[2025-06-18T05:27:33.374Z] Successfully connected to Elder Electron App IPC channel
+[2025-06-18T05:27:34.382Z] Cannot send message to extension - not connected
+[2025-06-18T05:28:03.386Z] Health check - Extension: false, Electron: true, uptime: 30.035671s
+[2025-06-18T05:30:11.356Z] === Native Bridge Script Starting ===
+[2025-06-18T05:30:11.379Z] Node.js version: v20.19.2
+[2025-06-18T05:30:11.380Z] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[2025-06-18T05:30:11.381Z] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:30:11.382Z] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:30:11.383Z] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:30:11.393Z] Starting startup sequence...
+[2025-06-18T05:30:11.394Z] Attempting to connect to Elder Electron App (attempt 1/10)
+[2025-06-18T05:30:11.398Z] === Native Bridge initialization complete ===
+[2025-06-18T05:30:11.410Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:30:11.411Z] Retrying connection in 2 seconds...
+[2025-06-18T05:30:11.412Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:30:12.418Z] Cannot send message to extension - not connected
+[2025-06-18T05:30:13.425Z] Attempting to connect to Elder Electron App (attempt 2/10)
+[2025-06-18T05:30:13.427Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:30:13.429Z] Retrying connection in 2 seconds...
+[2025-06-18T05:30:13.430Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:30:15.444Z] Attempting to connect to Elder Electron App (attempt 3/10)
+[2025-06-18T05:30:15.445Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:30:15.445Z] Retrying connection in 2 seconds...
+[2025-06-18T05:30:15.446Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:30:17.460Z] Attempting to connect to Elder Electron App (attempt 4/10)
+[2025-06-18T05:30:17.461Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:30:17.461Z] Retrying connection in 2 seconds...
+[2025-06-18T05:30:17.461Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:30:19.464Z] Attempting to connect to Elder Electron App (attempt 5/10)
+[2025-06-18T05:30:19.465Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:30:19.465Z] Retrying connection in 2 seconds...
+[2025-06-18T05:30:19.466Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:30:21.469Z] Attempting to connect to Elder Electron App (attempt 6/10)
+[2025-06-18T05:30:21.470Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:30:21.470Z] Retrying connection in 2 seconds...
+[2025-06-18T05:30:21.471Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:30:23.475Z] Attempting to connect to Elder Electron App (attempt 7/10)
+[2025-06-18T05:30:23.476Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:30:23.476Z] Retrying connection in 2 seconds...
+[2025-06-18T05:30:23.476Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:30:25.487Z] Attempting to connect to Elder Electron App (attempt 8/10)
+[2025-06-18T05:30:25.488Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:30:25.488Z] Retrying connection in 2 seconds...
+[2025-06-18T05:30:25.489Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:30:27.497Z] Attempting to connect to Elder Electron App (attempt 9/10)
+[2025-06-18T05:30:27.497Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:30:27.497Z] Retrying connection in 2 seconds...
+[2025-06-18T05:30:27.498Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:30:29.509Z] Attempting to connect to Elder Electron App (attempt 10/10)
+[2025-06-18T05:30:29.515Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:30:29.515Z] Max connection attempts reached. Elder Electron app may not be running.
+[2025-06-18T05:30:29.515Z] Native bridge will continue running but commands cannot be forwarded.
+[2025-06-18T05:30:29.515Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:30:41.402Z] Health check - Extension: false, Electron: false, uptime: 30.1004386s
+[2025-06-18T05:31:11.405Z] Health check - Extension: false, Electron: false, uptime: 60.1061551s
+[2025-06-18T05:31:12.397Z] stdin ended - browser extension disconnected
+[2025-06-18T05:31:12.398Z] Waiting for potential extension reconnection...
+[2025-06-18T05:31:41.408Z] Health check - Extension: false, Electron: false, uptime: 90.1089816s
+[2025-06-18T05:31:42.409Z] No extension reconnection detected, exiting
+[2025-06-18T05:32:17.473Z] === Native Bridge Script Starting ===
+[2025-06-18T05:32:17.475Z] Node.js version: v20.19.2
+[2025-06-18T05:32:17.475Z] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[2025-06-18T05:32:17.476Z] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:32:17.476Z] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:32:17.476Z] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:17.478Z] Starting startup sequence...
+[2025-06-18T05:32:17.478Z] Attempting to connect to Elder Electron App (attempt 1/10)
+[2025-06-18T05:32:17.479Z] === Native Bridge initialization complete ===
+[2025-06-18T05:32:17.480Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:17.481Z] Retrying connection in 2 seconds...
+[2025-06-18T05:32:17.481Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:32:18.482Z] Cannot send message to extension - not connected
+[2025-06-18T05:32:19.327Z] stdin ended - browser extension disconnected
+[2025-06-18T05:32:19.328Z] Waiting for potential extension reconnection...
+[2025-06-18T05:32:19.496Z] Attempting to connect to Elder Electron App (attempt 2/10)
+[2025-06-18T05:32:19.497Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:19.497Z] Retrying connection in 2 seconds...
+[2025-06-18T05:32:19.497Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:32:21.503Z] Attempting to connect to Elder Electron App (attempt 3/10)
+[2025-06-18T05:32:21.504Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:21.504Z] Retrying connection in 2 seconds...
+[2025-06-18T05:32:21.505Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:32:23.511Z] Attempting to connect to Elder Electron App (attempt 4/10)
+[2025-06-18T05:32:23.512Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:23.513Z] Retrying connection in 2 seconds...
+[2025-06-18T05:32:23.513Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:32:25.520Z] Attempting to connect to Elder Electron App (attempt 5/10)
+[2025-06-18T05:32:25.521Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:25.521Z] Retrying connection in 2 seconds...
+[2025-06-18T05:32:25.521Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:32:27.535Z] Attempting to connect to Elder Electron App (attempt 6/10)
+[2025-06-18T05:32:27.536Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:27.536Z] Retrying connection in 2 seconds...
+[2025-06-18T05:32:27.539Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:32:29.542Z] Attempting to connect to Elder Electron App (attempt 7/10)
+[2025-06-18T05:32:29.543Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:29.543Z] Retrying connection in 2 seconds...
+[2025-06-18T05:32:29.543Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:32:31.558Z] Attempting to connect to Elder Electron App (attempt 8/10)
+[2025-06-18T05:32:31.559Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:31.560Z] Retrying connection in 2 seconds...
+[2025-06-18T05:32:31.560Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:32:33.564Z] Attempting to connect to Elder Electron App (attempt 9/10)
+[2025-06-18T05:32:33.565Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:33.565Z] Retrying connection in 2 seconds...
+[2025-06-18T05:32:33.565Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:32:35.571Z] Attempting to connect to Elder Electron App (attempt 10/10)
+[2025-06-18T05:32:35.573Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:35.573Z] Max connection attempts reached. Elder Electron app may not be running.
+[2025-06-18T05:32:35.574Z] Native bridge will continue running but commands cannot be forwarded.
+[2025-06-18T05:32:35.574Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:32:47.483Z] Health check - Extension: false, Electron: false, uptime: 30.0284513s
+[2025-06-18T05:32:49.340Z] No extension reconnection detected, exiting
+[2025-06-18T05:32:52.085Z] === Native Bridge Script Starting ===
+[2025-06-18T05:32:52.087Z] Node.js version: v20.19.2
+[2025-06-18T05:32:52.088Z] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[2025-06-18T05:32:52.088Z] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:32:52.089Z] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:32:52.089Z] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:52.091Z] Starting startup sequence...
+[2025-06-18T05:32:52.091Z] Attempting to connect to Elder Electron App (attempt 1/10)
+[2025-06-18T05:32:52.092Z] === Native Bridge initialization complete ===
+[2025-06-18T05:32:52.094Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:52.094Z] Retrying connection in 2 seconds...
+[2025-06-18T05:32:52.094Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:32:53.093Z] Cannot send message to extension - not connected
+[2025-06-18T05:32:54.109Z] Attempting to connect to Elder Electron App (attempt 2/10)
+[2025-06-18T05:32:54.109Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:54.110Z] Retrying connection in 2 seconds...
+[2025-06-18T05:32:54.110Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:32:56.118Z] Attempting to connect to Elder Electron App (attempt 3/10)
+[2025-06-18T05:32:56.119Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:56.119Z] Retrying connection in 2 seconds...
+[2025-06-18T05:32:56.120Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:32:58.132Z] Attempting to connect to Elder Electron App (attempt 4/10)
+[2025-06-18T05:32:58.133Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:32:58.133Z] Retrying connection in 2 seconds...
+[2025-06-18T05:32:58.133Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:33:00.145Z] Attempting to connect to Elder Electron App (attempt 5/10)
+[2025-06-18T05:33:00.146Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:33:00.146Z] Retrying connection in 2 seconds...
+[2025-06-18T05:33:00.146Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:33:02.147Z] Attempting to connect to Elder Electron App (attempt 6/10)
+[2025-06-18T05:33:02.148Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:33:02.148Z] Retrying connection in 2 seconds...
+[2025-06-18T05:33:02.149Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:33:04.149Z] Attempting to connect to Elder Electron App (attempt 7/10)
+[2025-06-18T05:33:04.150Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:33:04.150Z] Retrying connection in 2 seconds...
+[2025-06-18T05:33:04.150Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:33:06.153Z] Attempting to connect to Elder Electron App (attempt 8/10)
+[2025-06-18T05:33:06.154Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:33:06.154Z] Retrying connection in 2 seconds...
+[2025-06-18T05:33:06.155Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:33:08.170Z] Attempting to connect to Elder Electron App (attempt 9/10)
+[2025-06-18T05:33:08.171Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:33:08.171Z] Retrying connection in 2 seconds...
+[2025-06-18T05:33:08.172Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:33:10.183Z] Attempting to connect to Elder Electron App (attempt 10/10)
+[2025-06-18T05:33:10.185Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:33:10.185Z] Max connection attempts reached. Elder Electron app may not be running.
+[2025-06-18T05:33:10.186Z] Native bridge will continue running but commands cannot be forwarded.
+[2025-06-18T05:33:10.186Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:33:22.092Z] Health check - Extension: false, Electron: false, uptime: 30.0296866s
+[2025-06-18T05:33:52.097Z] Health check - Extension: false, Electron: false, uptime: 60.034615s
+[2025-06-18T05:34:22.120Z] Health check - Extension: false, Electron: false, uptime: 90.0575362s
+[2025-06-18T05:34:52.124Z] Health check - Extension: false, Electron: false, uptime: 120.0619328s
+[2025-06-18T05:35:18.540Z] stdin ended - browser extension disconnected
+[2025-06-18T05:35:18.541Z] Waiting for potential extension reconnection...
+[2025-06-18T05:35:22.134Z] Health check - Extension: false, Electron: false, uptime: 150.0721401s
+[2025-06-18T05:35:48.543Z] No extension reconnection detected, exiting
+[2025-06-18T05:36:50.699Z] === Native Bridge Script Starting ===
+[2025-06-18T05:36:50.701Z] Node.js version: v20.19.2
+[2025-06-18T05:36:50.701Z] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[2025-06-18T05:36:50.701Z] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:36:50.702Z] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:36:50.702Z] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:36:50.703Z] Starting startup sequence...
+[2025-06-18T05:36:50.704Z] Attempting to connect to Elder Electron App (attempt 1/10)
+[2025-06-18T05:36:50.705Z] === Native Bridge initialization complete ===
+[2025-06-18T05:36:50.706Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:36:50.707Z] Retrying connection in 2 seconds...
+[2025-06-18T05:36:50.708Z] Received 45 bytes from stdin (data event)
+[2025-06-18T05:36:50.708Z] Browser extension connected via stdin
+[2025-06-18T05:36:50.709Z] Expected message length: 41 bytes
+[2025-06-18T05:36:50.710Z] Received message from extension: {"type":"handshake","source":"extension"}
+[2025-06-18T05:36:50.710Z] Cannot forward to Electron app - not connected or not writable
+[2025-06-18T05:36:50.711Z] Received 45 bytes from stdin
+[2025-06-18T05:36:50.711Z] Expected message length: 41 bytes
+[2025-06-18T05:36:50.711Z] Received message from extension: {"type":"handshake","source":"extension"}
+[2025-06-18T05:36:50.711Z] Cannot forward to Electron app - not connected or not writable
+[2025-06-18T05:36:50.712Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:36:51.716Z] Sending to extension: 80 bytes
+[2025-06-18T05:36:51.717Z] Message content: {"type":"native_host_ready","timestamp":1750225011714,"electronConnected":false}
+[2025-06-18T05:36:51.717Z] Message sent to extension successfully
+[2025-06-18T05:36:52.713Z] Attempting to connect to Elder Electron App (attempt 2/10)
+[2025-06-18T05:36:52.714Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:36:52.714Z] Retrying connection in 2 seconds...
+[2025-06-18T05:36:52.715Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:36:54.729Z] Attempting to connect to Elder Electron App (attempt 3/10)
+[2025-06-18T05:36:54.729Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:36:54.730Z] Retrying connection in 2 seconds...
+[2025-06-18T05:36:54.730Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:36:56.746Z] Attempting to connect to Elder Electron App (attempt 4/10)
+[2025-06-18T05:36:56.746Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:36:56.747Z] Retrying connection in 2 seconds...
+[2025-06-18T05:36:56.747Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:36:58.756Z] Attempting to connect to Elder Electron App (attempt 5/10)
+[2025-06-18T05:36:58.757Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:36:58.757Z] Retrying connection in 2 seconds...
+[2025-06-18T05:36:58.758Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:37:00.759Z] Attempting to connect to Elder Electron App (attempt 6/10)
+[2025-06-18T05:37:00.759Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:37:00.760Z] Retrying connection in 2 seconds...
+[2025-06-18T05:37:00.760Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:37:02.769Z] Attempting to connect to Elder Electron App (attempt 7/10)
+[2025-06-18T05:37:02.769Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:37:02.770Z] Retrying connection in 2 seconds...
+[2025-06-18T05:37:02.770Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:37:04.775Z] Attempting to connect to Elder Electron App (attempt 8/10)
+[2025-06-18T05:37:04.776Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:37:04.776Z] Retrying connection in 2 seconds...
+[2025-06-18T05:37:04.777Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:37:06.787Z] Attempting to connect to Elder Electron App (attempt 9/10)
+[2025-06-18T05:37:06.787Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:37:06.788Z] Retrying connection in 2 seconds...
+[2025-06-18T05:37:06.788Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:37:08.798Z] Attempting to connect to Elder Electron App (attempt 10/10)
+[2025-06-18T05:37:08.800Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:37:08.800Z] Max connection attempts reached. Elder Electron app may not be running.
+[2025-06-18T05:37:08.800Z] Native bridge will continue running but commands cannot be forwarded.
+[2025-06-18T05:37:08.800Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:37:09.746Z] stdin ended - browser extension disconnected
+[2025-06-18T05:37:09.747Z] Waiting for potential extension reconnection...
+[2025-06-18T05:37:20.711Z] Health check - Extension: false, Electron: false, uptime: 30.0368166s
+[2025-06-18T05:37:39.760Z] No extension reconnection detected, exiting
+[2025-06-18T05:37:46.411Z] === Native Bridge Script Starting ===
+[2025-06-18T05:37:46.413Z] Node.js version: v20.19.2
+[2025-06-18T05:37:46.413Z] Process argv: ["C:\\Program Files\\nodejs\\node.exe","D:\\ClientWork\\RemoteNetflixController\\elder-app\\native-messaging-host\\native_bridge.js"]
+[2025-06-18T05:37:46.414Z] Current working directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:37:46.414Z] Script directory: D:\ClientWork\RemoteNetflixController\elder-app\native-messaging-host
+[2025-06-18T05:37:46.414Z] IPC pipe path: \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:37:46.415Z] Starting startup sequence...
+[2025-06-18T05:37:46.416Z] Attempting to connect to Elder Electron App (attempt 1/10)
+[2025-06-18T05:37:46.416Z] === Native Bridge initialization complete ===
+[2025-06-18T05:37:46.418Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:37:46.418Z] Retrying connection in 2 seconds...
+[2025-06-18T05:37:46.419Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:37:47.424Z] Cannot send message to extension - not connected
+[2025-06-18T05:37:48.424Z] Attempting to connect to Elder Electron App (attempt 2/10)
+[2025-06-18T05:37:48.425Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:37:48.426Z] Retrying connection in 2 seconds...
+[2025-06-18T05:37:48.426Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:37:50.440Z] Attempting to connect to Elder Electron App (attempt 3/10)
+[2025-06-18T05:37:50.441Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:37:50.441Z] Retrying connection in 2 seconds...
+[2025-06-18T05:37:50.442Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:37:52.457Z] Attempting to connect to Elder Electron App (attempt 4/10)
+[2025-06-18T05:37:52.458Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:37:52.458Z] Retrying connection in 2 seconds...
+[2025-06-18T05:37:52.459Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:37:54.473Z] Attempting to connect to Elder Electron App (attempt 5/10)
+[2025-06-18T05:37:54.474Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:37:54.474Z] Retrying connection in 2 seconds...
+[2025-06-18T05:37:54.475Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:37:56.489Z] Attempting to connect to Elder Electron App (attempt 6/10)
+[2025-06-18T05:37:56.490Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:37:56.490Z] Retrying connection in 2 seconds...
+[2025-06-18T05:37:56.490Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:37:58.502Z] Attempting to connect to Elder Electron App (attempt 7/10)
+[2025-06-18T05:37:58.503Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:37:58.503Z] Retrying connection in 2 seconds...
+[2025-06-18T05:37:58.503Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:38:00.514Z] Attempting to connect to Elder Electron App (attempt 8/10)
+[2025-06-18T05:38:00.515Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:38:00.515Z] Retrying connection in 2 seconds...
+[2025-06-18T05:38:00.515Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:38:02.528Z] Attempting to connect to Elder Electron App (attempt 9/10)
+[2025-06-18T05:38:02.529Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:38:02.529Z] Retrying connection in 2 seconds...
+[2025-06-18T05:38:02.529Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:38:04.539Z] Attempting to connect to Elder Electron App (attempt 10/10)
+[2025-06-18T05:38:04.540Z] IPC connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[2025-06-18T05:38:04.541Z] Max connection attempts reached. Elder Electron app may not be running.
+[2025-06-18T05:38:04.541Z] Native bridge will continue running but commands cannot be forwarded.
+[2025-06-18T05:38:04.541Z] IPC connection closed by Elder Electron App
+[2025-06-18T05:38:16.417Z] Health check - Extension: false, Electron: false, uptime: 30.0309683s
+[2025-06-18T05:38:46.422Z] Health check - Extension: false, Electron: false, uptime: 60.0357319s
+[2025-06-18T05:39:16.424Z] Health check - Extension: false, Electron: false, uptime: 90.0378009s
+[2025-06-18T05:39:46.427Z] Health check - Extension: false, Electron: false, uptime: 120.0405299s
+[2025-06-18T05:40:16.436Z] Health check - Extension: false, Electron: false, uptime: 150.0497903s
+[2025-06-18T05:40:46.441Z] Health check - Extension: false, Electron: false, uptime: 180.0551108s
+[2025-06-18T05:41:16.448Z] Health check - Extension: false, Electron: false, uptime: 210.0622081s
+[2025-06-18T05:41:46.458Z] Health check - Extension: false, Electron: false, uptime: 240.0718765s
+[2025-06-18T05:42:16.461Z] Health check - Extension: false, Electron: false, uptime: 270.0751412s
+[2025-06-18T05:42:46.474Z] Health check - Extension: false, Electron: false, uptime: 300.0878515s
+[2025-06-18T05:42:46.474Z] Extension disconnected for too long, exiting

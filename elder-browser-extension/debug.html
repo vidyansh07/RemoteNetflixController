@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Extension Debug Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        button { padding: 10px 20px; margin: 5px; background: #4CAF50; color: white; border: none; border-radius: 4px; cursor: pointer; }
+        button:hover { background: #45a049; }
+        #output { background: #f5f5f5; border: 1px solid #ddd; padding: 10px; margin-top: 20px; height: 400px; overflow-y: auto; font-family: monospace; font-size: 12px; }
+        .error { color: red; }
+        .success { color: green; }
+        .info { color: blue; }
+    </style>
+</head>
+<body>
+    <h1>Extension Debug Test</h1>
+    
+    <button onclick="testConnection()">Test Native Connection</button>
+    <button onclick="checkExtensionInfo()">Check Extension Info</button>
+    <button onclick="testBackgroundScript()">Test Background Script</button>
+    <button onclick="clearOutput()">Clear</button>
+    
+    <div id="output"></div>
+
+    <script>
+        function log(message, type = 'info') {
+            const output = document.getElementById('output');
+            const timestamp = new Date().toLocaleTimeString();
+            const div = document.createElement('div');
+            div.className = type;
+            div.textContent = `[${timestamp}] ${message}`;
+            output.appendChild(div);
+            output.scrollTop = output.scrollHeight;
+        }
+        
+        function clearOutput() {
+            document.getElementById('output').innerHTML = '';
+        }
+        
+        function checkExtensionInfo() {
+            log("=== Extension Info ===", "info");
+            log(`Extension ID: ${chrome.runtime.id}`, "info");
+            log(`Manifest Version: ${chrome.runtime.getManifest().manifest_version}`, "info");
+            log(`Extension Name: ${chrome.runtime.getManifest().name}`, "info");
+            log(`Permissions: ${JSON.stringify(chrome.runtime.getManifest().permissions)}`, "info");
+        }
+        
+        function testBackgroundScript() {
+            log("=== Testing Background Script Communication ===", "info");
+            
+            // Send message to background script
+            chrome.runtime.sendMessage({type: "test", from: "debug_page"}, (response) => {
+                if (chrome.runtime.lastError) {
+                    log(`Background script error: ${chrome.runtime.lastError.message}`, "error");
+                } else {
+                    log(`Background script response: ${JSON.stringify(response)}`, "success");
+                }
+            });
+        }
+        
+        function testConnection() {
+            log("=== Testing Native Messaging Connection ===", "info");
+            
+            const hostName = 'com.your_company.netflix_remote';
+            log(`Connecting to: ${hostName}`, "info");
+            
+            let port = null;
+            
+            try {
+                port = chrome.runtime.connectNative(hostName);
+                log("Native port created successfully", "success");
+                
+                let messageCount = 0;
+                
+                port.onMessage.addListener((message) => {
+                    messageCount++;
+                    log(`Message ${messageCount} from native host: ${JSON.stringify(message)}`, "success");
+                });
+                
+                port.onDisconnect.addListener(() => {
+                    if (chrome.runtime.lastError) {
+                        log(`Native host disconnected with error: ${chrome.runtime.lastError.message}`, "error");
+                    } else {
+                        log("Native host disconnected cleanly", "info");
+                    }
+                });
+                
+                // Send test messages
+                setTimeout(() => {
+                    if (port) {
+                        try {
+                            log("Sending test message 1...", "info");
+                            port.postMessage({
+                                type: "test",
+                                message: "Hello from debug page",
+                                timestamp: Date.now()
+                            });
+                        } catch (error) {
+                            log(`Error sending message: ${error.message}`, "error");
+                        }
+                    }
+                }, 1000);
+                
+                setTimeout(() => {
+                    if (port) {
+                        try {
+                            log("Sending ping...", "info");
+                            port.postMessage({
+                                type: "ping",
+                                timestamp: Date.now()
+                            });
+                        } catch (error) {
+                            log(`Error sending ping: ${error.message}`, "error");
+                        }
+                    }
+                }, 2000);
+                
+                // Disconnect after 10 seconds
+                setTimeout(() => {
+                    if (port) {
+                        log("Disconnecting...", "info");
+                        port.disconnect();
+                    }
+                }, 10000);
+                
+            } catch (error) {
+                log(`Exception creating native port: ${error.message}`, "error");
+            }
+        }
+        
+        // Auto-run checks on page load
+        document.addEventListener('DOMContentLoaded', () => {
+            log("Debug page loaded", "info");
+            checkExtensionInfo();
+            
+            // Auto-test connection after 2 seconds
+            setTimeout(() => {
+                log("Starting auto-test...", "info");
+                testConnection();
+            }, 2000);
+        });
+    </script>
+</body>
+</html>

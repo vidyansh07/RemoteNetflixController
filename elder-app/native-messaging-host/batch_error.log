@@ -1,0 +1,442 @@
+[Native Bridge] === Native Bridge Starting ===
+[Native Bridge] === Native Bridge Ready ===
+[Native Bridge] Electron connection error: connect ENOENT \\.\pipe\netflix-remote-ipc-channel
+[Native Bridge] Electron connection closed
+[Native Bridge] Cannot send to extension - not connected
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=30s
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=60s
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=90s
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=120s
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=150s
+[Native Bridge] Stdin ended - extension disconnected
+[Native Bridge] Exiting - no extension reconnection
+[Native Bridge] === Native Bridge Starting ===
+[Native Bridge] === Native Bridge Ready ===
+[Native Bridge] Connected to Electron app
+[Native Bridge] Cannot send to extension - not connected
+[Native Bridge] Stdin ended - extension disconnected
+[Native Bridge] Exiting - no extension reconnection
+[Native Bridge] === Native Bridge Starting ===
+[Native Bridge] === Native Bridge Ready ===
+[Native Bridge] Connected to Electron app
+[Native Bridge] Cannot send to extension - not connected
+[Native Bridge] Status: Extension=false, Electron=true, Uptime=30s
+[Native Bridge] Status: Extension=false, Electron=true, Uptime=60s
+[Native Bridge] Electron connection closed
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=90s
+[Native Bridge] Stdin ended - extension disconnected
+[Native Bridge] Exiting - no extension reconnection
+[Native Bridge] === Native Bridge Starting ===
+[Native Bridge] === Starting initialization ===
+[Native Bridge] Initializing native bridge
+[Native Bridge] === Native Bridge Ready ===
+[Native Bridge] Connected to Electron app
+[Native Bridge] Cannot send to extension - not connected or shutting down
+[Native Bridge] Electron connection timeout
+[Native Bridge] Electron connection closed
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=30s
+[Native Bridge] Extension disconnected (stdin end)
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=60s
+[Native Bridge] No reconnection - shutting down gracefully
+[Native Bridge] Starting graceful shutdown
+[Native Bridge] Shutdown complete
+[Native Bridge] === Native Bridge Starting ===
+[Native Bridge] === Starting initialization ===
+[Native Bridge] Initializing native bridge
+[Native Bridge] === Native Bridge Ready ===
+[Native Bridge] Connected to Electron app
+[Native Bridge] Cannot send to extension - not connected or shutting down
+[Native Bridge] Electron connection timeout
+[Native Bridge] Electron connection closed
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=30s, HasData=false
+[Native Bridge] Extension disconnected after 52756ms
+[Native Bridge] No reconnection after grace period - shutting down
+[Native Bridge] Starting graceful shutdown
+[Native Bridge] Shutdown complete
+[Native Bridge] === Native Bridge Starting ===
+[Native Bridge] === Starting initialization ===
+[Native Bridge] Initializing native bridge
+[Native Bridge] === Native Bridge Ready ===
+[Native Bridge] Connected to Electron app
+[Native Bridge] Cannot send to extension - not connected or shutting down
+[Native Bridge] Electron connection timeout
+[Native Bridge] Electron connection closed
+[Native Bridge] Extension disconnected after 9857ms
+[Native Bridge] No reconnection after grace period - shutting down
+[Native Bridge] Starting graceful shutdown
+[Native Bridge] Shutdown complete
+[Native Bridge] === Native Bridge Starting ===
+[Native Bridge] === Starting initialization ===
+[Native Bridge] Initializing native bridge
+[Native Bridge] === Native Bridge Ready ===
+[Native Bridge] Connected to Electron app
+[Native Bridge] Cannot send to extension - not connected or shutting down
+[Native Bridge] Electron connection timeout
+[Native Bridge] Electron connection closed
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=30s, HasData=false
+[Native Bridge] Extension disconnected after 52760ms
+[Native Bridge] No reconnection after grace period - shutting down
+[Native Bridge] Starting graceful shutdown
+[Native Bridge] Shutdown complete
+[Native Bridge] === Native Bridge Starting ===
+[Native Bridge] === Starting initialization ===
+[Native Bridge] Initializing native bridge
+[Native Bridge] === Native Bridge Ready ===
+[Native Bridge] Connected to Electron app
+[Native Bridge] Cannot send to extension - not connected or shutting down
+[Native Bridge] Electron connection timeout
+[Native Bridge] Electron connection closed
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=30s, HasData=false
+[Native Bridge] Extension disconnected after 49593ms
+[Native Bridge] No reconnection after grace period - shutting down
+[Native Bridge] Starting graceful shutdown
+[Native Bridge] Shutdown complete
+[Native Bridge] === Native Bridge Starting ===
+[Native Bridge] === Starting initialization ===
+[Native Bridge] Initializing native bridge
+[Native Bridge] === Native Bridge Ready ===
+[Native Bridge] Connected to Electron app
+[Native Bridge] Cannot send to extension - not connected or shutting down
+[Native Bridge] Electron connection timeout
+[Native Bridge] Electron connection closed
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=30s, HasData=false
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=60s, HasData=false
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=90s, HasData=false
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=120s, HasData=false
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=150s, HasData=false
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=180s, HasData=false
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=210s, HasData=false
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=240s, HasData=false
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=270s, HasData=false
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=300s, HasData=false
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=330s, HasData=false
+[Native Bridge] Extension disconnected after 359738ms
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=360s, HasData=false
+[Native Bridge] No reconnection after grace period - shutting down
+[Native Bridge] Starting graceful shutdown
+[Native Bridge] Shutdown complete
+[Native Bridge] === Native Bridge Starting ===
+[Native Bridge] === Starting initialization ===
+[Native Bridge] Initializing native bridge
+[Native Bridge] === Native Bridge Ready ===
+[Native Bridge] Connected to Electron app
+[Native Bridge] Cannot send to extension - not connected or shutting down
+[Native Bridge] Electron connection timeout
+[Native Bridge] Electron connection closed
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=30s, HasData=false
+[Native Bridge] Extension disconnected after 52746ms
+[Native Bridge] No reconnection after grace period - shutting down
+[Native Bridge] Starting graceful shutdown
+[Native Bridge] Shutdown complete
+[Native Bridge] === Native Bridge Starting ===
+[Native Bridge] === Starting initialization ===
+[Native Bridge] Initializing native bridge
+[Native Bridge] === Native Bridge Ready ===
+[Native Bridge] Connected to Electron app
+[Native Bridge] Cannot send to extension - not connected or shutting down
+[Native Bridge] Electron connection timeout
+[Native Bridge] Electron connection closed
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=30s, HasData=false
+[Native Bridge] Extension disconnected after 49594ms
+[Native Bridge] No reconnection after grace period - shutting down
+[Native Bridge] Starting graceful shutdown
+[Native Bridge] Shutdown complete
+[Native Bridge] === Native Bridge Starting ===
+[Native Bridge] === Starting initialization ===
+[Native Bridge] Initializing native bridge
+[Native Bridge] === Native Bridge Ready ===
+[Native Bridge] Connected to Electron app
+[Native Bridge] Cannot send to extension - not connected or shutting down
+[Native Bridge] Electron connection timeout
+[Native Bridge] Electron connection closed
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=30s, HasData=false
+[Native Bridge] Status: Extension=false, Electron=false, Uptime=60s, HasData=false
+[Native Bridge] Extension disconnected after 72791ms
+[Native Bridge] No reconnection after grace period - shutting down
+[Native Bridge] Starting graceful shutdown
+[Native Bridge] Shutdown complete
+[Native Bridge] === Native Bridge Starting ===
+[Native Bridge] === Starting initialization ===
+[Native Bridge] Initializing native bridge
+[Native Bridge] === Native Bridge Ready ===
+[Native Bridge] Connected to Electron app
+[Native Bridge] Extension connected - received first data
+[Native Bridge] From Extension: {"type":"test_connection","timestamp":1750227178365,"message":"Hello from Chrome extension"}
+[Native Bridge] Forwarded to Electron
+[Native Bridge] Sent to extension: {"type":"native_host_ready","timestamp":1750227178489,"electronConnected":true,"version":"3.0"}
+[Native Bridge] Electron connection timeout
+[Native Bridge] Electron connection closed
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=30s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=60s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=90s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=120s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=150s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=180s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=210s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=240s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=270s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=300s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=330s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=360s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=390s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=420s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=450s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=480s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=510s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=540s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=570s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=600s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=630s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=660s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=690s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=720s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=750s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=780s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=810s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=840s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=870s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=900s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=930s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=960s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=990s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1020s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1050s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1080s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1110s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1140s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1170s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1200s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1230s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1260s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1290s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1320s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1350s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1380s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1410s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1440s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1470s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1500s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1530s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1560s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1590s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1620s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1650s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1680s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1710s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1740s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1770s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1800s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1830s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1860s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1890s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1920s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1950s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=1980s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2010s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2040s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2070s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2100s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2130s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2160s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2190s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2220s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2250s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2280s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2310s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2340s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2370s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2400s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2430s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2460s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2490s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2520s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2550s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2580s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2610s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2640s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2670s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2700s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2730s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2760s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2790s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2820s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2850s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2880s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2910s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2940s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=2970s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3000s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3030s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3060s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3090s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3120s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3150s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3180s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3210s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3240s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3270s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3300s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3330s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3360s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3390s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3420s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3450s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3480s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3510s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3540s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3570s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3600s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3630s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3660s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3690s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3720s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3750s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3780s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3810s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3840s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3870s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3900s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3930s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3960s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=3990s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4020s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4050s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4081s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4111s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4141s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4171s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4201s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4231s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4261s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4291s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4321s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4351s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4381s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4411s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4441s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4471s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4501s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4531s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4561s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4591s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4621s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4651s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4681s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4711s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4741s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4771s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4801s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4831s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4861s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4891s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4921s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4951s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=4981s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5011s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5041s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5071s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5101s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5131s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5161s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5191s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5221s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5251s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5281s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5311s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5341s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5371s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5401s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5431s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5461s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5491s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5521s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5551s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5581s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5611s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5641s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5671s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5701s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5731s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5761s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5791s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5821s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5851s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5881s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5911s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5941s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=5971s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6001s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6031s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6061s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6091s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6121s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6151s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6181s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6211s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6241s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6271s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6301s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6331s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6361s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6391s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6421s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6451s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6481s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6511s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6541s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6571s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6601s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6631s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6661s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6691s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6721s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6751s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6781s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6811s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6841s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6871s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6901s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6931s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6961s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=6991s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7021s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7051s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7081s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7111s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7141s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7171s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7201s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7231s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7261s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7291s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7321s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7351s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7381s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7411s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7441s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7471s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7501s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7531s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7561s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7591s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7621s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7651s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7681s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7711s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7741s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7771s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7802s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7832s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7862s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7892s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7922s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7952s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=7982s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=8012s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=8042s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=8072s, HasData=true
+[Native Bridge] Status: Extension=true, Electron=false, Uptime=8102s, HasData=true
+[Native Bridge] Extension disconnected after 8126091ms
+[Native Bridge] No reconnection after grace period - shutting down
+[Native Bridge] Starting graceful shutdown
+[Native Bridge] Shutdown complete
